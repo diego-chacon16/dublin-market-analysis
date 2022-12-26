@@ -46,3 +46,6 @@ Based on the findings the new city manager will try to boost the number and qual
 + ds_checkout - Date stamp of the check-out date of the inquiry
 + n_guests - The number of guests the inquiry is for
 + n_messages - The total number of messages that were sent around this inquiry
+
+
+## Results
