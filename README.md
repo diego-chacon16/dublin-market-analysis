@@ -50,6 +50,5 @@ Based on the findings the new city manager will try to boost the number and qual
 
 ## Results
 
-+ 
-+
-+
++ What were the most common number of people searched for?
++ What does the max price distribution look like across searches?
