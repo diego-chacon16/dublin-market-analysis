@@ -1,6 +1,6 @@
 ## Assignment
 
-<img src = "https://media.giphy.com/media/CfwvukeZK1LujFD70u/giphy.gif" width = "500" height = "250"/>
+<img src = "https://media.giphy.com/media/CfwvukeZK1LujFD70u/giphy.gif" width = "500" height = "300"/>
 
 #### A new city manager for Airbnb has started in Dublin and wants to better understand:
 
