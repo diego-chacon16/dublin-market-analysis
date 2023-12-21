@@ -1,8 +1,8 @@
-## Assignment
+# Project & Overview
 
 <img src = "https://media.giphy.com/media/CfwvukeZK1LujFD70u/giphy.gif" width = "600" height = "400"/>
 
-#### A new city manager for Airbnb has started in Dublin and wants to better understand:
+## A new city manager for Airbnb has started in Dublin and wants to better understand:
 
 + What guests are searching for in Dublin
 + Which inquiries hosts tend to accept
